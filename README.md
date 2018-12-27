@@ -1,2 +1,2 @@
-# GCT301S Application Notes"
+# GCT301S Application Notes
 
